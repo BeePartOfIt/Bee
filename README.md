@@ -1,6 +1,7 @@
 # Bee
 Let´s improve the life of bees and the work of beekeeping by the aid of technology.
-Installing different sensors on a beehive, monitor what is going on and take appropriate actions if needed.
+
+The aim of this project is to be able to remotely monitor beehives. The monitorinng is done by installing different sensors in the beehive and forwarding the measurement results to a dashboard. The beekeeper then has a better understanding of what is going on in the behieve and can take appropriate actions if needed.
 
 The sensors are hooked up to an ESP8266-12.
 
